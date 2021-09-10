@@ -32,6 +32,8 @@
     cursor: pointer;
   }
     .card{
-        height: 60vh;
+        height: 100vh;
         overflow: hidden ;
     }
+
+      
